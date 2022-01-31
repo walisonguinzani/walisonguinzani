@@ -25,15 +25,15 @@
 
 - 📖 **Production Engineering**\
 📆 2021 - 2023\
-📍 **University Center of Maringá - UNICESUMAR** - Canoinhas, Brazil
+📍 **Universidade do Centro de Maringá - UNICESUMAR** - Canoinhas, Brazil
  
 - 📖 **Electrical Engineering**\
 📆 2015 - Transfered\
-📍 **University of Contestado - UnC** - Canoinhas, Brazil  
+📍 **Universidade do Contestado - UnC** - Canoinhas, Brazil  
 
 - 📖 **Information Technician**\
 📆 2012 - 2013\
-📍 **Federal Institute of Santa Catarina - IFSC** - Canoinhas, Brazil
+📍 **Instituto Federal de Santa Catarina - IFSC** - Canoinhas, Brazil
   
 - 📖 **Industrial Learning in Programming**\
 📆 2010 - 2011\
