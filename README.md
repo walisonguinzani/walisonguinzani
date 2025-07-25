@@ -24,7 +24,7 @@
 ## Education
 
 - 📖 **Production Engineering**\
-📆 2021 - 2023\
+📆 2021 - 2024\
 📍 **Universidade do Centro de Maringá - UNICESUMAR** - Canoinhas, Brazil
  
 - 📖 **Electrical Engineering**\
